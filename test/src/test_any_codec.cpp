@@ -62,4 +62,4 @@ BOOST_AUTO_TEST_CASE(json_any_should_respect_should_encode) {
 
 BOOST_AUTO_TEST_SUITE_END()  // codec
 BOOST_AUTO_TEST_SUITE_END()  // json
-BOOST_AUTO_TEST_SUITE_END()  // spotify
+BOOST_AUTO_TEST_SUITE_END()  // spotify1
